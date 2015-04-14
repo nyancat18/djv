@@ -1,0 +1,6 @@
+-DDJV_LINUX
+-DDJV_MMAP
+-DDJV_ASSERT
+-o
+/home/lince/djv-git/plugins/djvOpenExrPlugin/moc_djvOpenExrWidget.cpp
+/home/lince/djv-git/plugins/djvOpenExrPlugin/djvOpenExrWidget.h

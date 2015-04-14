@@ -1,0 +1,6 @@
+-DDJV_LINUX
+-DDJV_MMAP
+-DDJV_ASSERT
+-o
+/home/lince/djv-git/lib/djvGui/moc_djvMultiChoiceDialog.cpp
+/home/lince/djv-git/lib/djvGui/djvMultiChoiceDialog.h

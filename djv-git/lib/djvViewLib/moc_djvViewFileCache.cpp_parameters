@@ -1,0 +1,6 @@
+-DDJV_LINUX
+-DDJV_MMAP
+-DDJV_ASSERT
+-o
+/home/lince/djv-git/lib/djvViewLib/moc_djvViewFileCache.cpp
+/home/lince/djv-git/lib/djvViewLib/djvViewFileCache.h

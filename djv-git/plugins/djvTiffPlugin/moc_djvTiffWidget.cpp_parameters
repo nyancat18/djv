@@ -1,0 +1,6 @@
+-DDJV_LINUX
+-DDJV_MMAP
+-DDJV_ASSERT
+-o
+/home/lince/djv-git/plugins/djvTiffPlugin/moc_djvTiffWidget.cpp
+/home/lince/djv-git/plugins/djvTiffPlugin/djvTiffWidget.h

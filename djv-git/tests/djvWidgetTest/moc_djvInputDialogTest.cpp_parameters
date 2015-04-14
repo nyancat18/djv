@@ -1,0 +1,6 @@
+-DDJV_LINUX
+-DDJV_MMAP
+-DDJV_ASSERT
+-o
+/home/lince/djv-git/tests/djvWidgetTest/moc_djvInputDialogTest.cpp
+/home/lince/djv-git/tests/djvWidgetTest/djvInputDialogTest.h

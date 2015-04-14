@@ -1,0 +1,6 @@
+-DDJV_LINUX
+-DDJV_MMAP
+-DDJV_ASSERT
+-o
+/home/lince/djv-git/tests/djvImagePlay3Test/moc_djvImagePlay3Test.cpp
+/home/lince/djv-git/tests/djvImagePlay3Test/djvImagePlay3Test.h

@@ -1,0 +1,6 @@
+-DDJV_LINUX
+-DDJV_MMAP
+-DDJV_ASSERT
+-o
+/home/lince/djv-git/bin/djv_ls/moc_djv_ls.cpp
+/home/lince/djv-git/bin/djv_ls/djv_ls.h

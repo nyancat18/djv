@@ -1,0 +1,6 @@
+-DDJV_LINUX
+-DDJV_MMAP
+-DDJV_ASSERT
+-o
+/home/lince/djv-git/tests/djvGlslTest/moc_djvGlslTestScale.cpp
+/home/lince/djv-git/tests/djvGlslTest/djvGlslTestScale.h
